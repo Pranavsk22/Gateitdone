@@ -6,6 +6,7 @@ This is a java program using jdbc connectivity and java swing UI to help apartme
 ->Replace <user> and <password> with your mysql username and password
 
 ->create a database complaintdb and create a table Complaint with following description:
+
 | Name             | varchar(30) |
 | Apartmentno      | varchar(4)  | 
 | Complaintcat     | varchar(20) |
@@ -14,4 +15,5 @@ This is a java program using jdbc connectivity and java swing UI to help apartme
 | ServiceExecName  | varchar(30) |
 | ServiceExecPhone | varchar(15) |
 | Status           | varchar(20) |
+
 ->dont change the file names in this repository when you are executing in your system
