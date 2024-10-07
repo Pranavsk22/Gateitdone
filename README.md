@@ -1,7 +1,10 @@
 # Gated-Community-Complaint-Redressal-System
 This is a java program using jdbc connectivity and java swing UI to help apartment management add, search and close maintenance complaints
+
 ->Make sure you have mysql connector JAR file in the reference libraries, if you are using vscode
+
 ->Replace <user> and <password> with your mysql username and password
+
 ->create a database complaintdb and create a table Complaint with following description:
 | Name             | varchar(30) |
 | Apartmentno      | varchar(4)  | 
